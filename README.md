@@ -18,7 +18,7 @@ Monero - Grey, wannabe black.
 
 Red - Mina.  It's founder Izaak Meckler is knowledgable and supportive of communism.  Also zk roll ups make sense for a communist economy too.
 
-Polkadot - Ideally pink polkadots on a white hanky, but white on a pink hanky is fine too.  Any other polkadot pattern should ideally represent specific parachain projects, but if unclaimed then anything goes, well shared security brings trust.  Polakdot piovacy coins should favor black backgrounds.  Polkadot stable coins should favor green backgrounds.  
+Polkadot - Ideally pink polkadots on a white hanky, but white on a pink hanky is fine too.  Wite with multi-color dots means wider polkadot ecosystem.  Any other polkadot pattern should ideally represent specific parachain projects, but if unclaimed then anything goes, well shared security brings trust.  Polakdot piovacy coins should favor black backgrounds.  Polkadot stable coins should favor green backgrounds. 
 
 Cardano - White, for the Chinese rice farmers to whome Charles Hoskinson shills Cardano
 
