@@ -8,7 +8,7 @@ All hanky colors should be best approximations, as not everyone can find all col
 
 Bitcoin - Orange, for the usual bitcoin logo color.
 
-Ethereum - Yellow, in honor of the Ethereum yellow papper
+Ethereum - Yellow, in honor of the Ethereum yellow papper.
 
 Dogecoin - Doge-like tan colors, for Doge of course. 
 
@@ -16,13 +16,13 @@ ZCash - Black, for the dark net.
 
 Red - Mina.  It's founder Izaak Meckler is knowledgable and supportive of communism.  Also zk roll ups make sense for a communist economy too.
 
-Polkadot - Ideally pink polkadots on a white hanky, but white on a pink naky is fine too.  Ideally, another polkadot pattern should represent specific parachain projects.  Polakdot piovacy coins should favor black backgrounds.  Polkadot stable coins should favor green backgrounds.  
+Polkadot - Ideally pink polkadots on a white hanky, but white on a pink hanky is fine too.  Any other polkadot pattern should ideally represent specific parachain projects, but if unclaimed then anything goes, well shared security brings trust.  Polakdot piovacy coins should favor black backgrounds.  Polkadot stable coins should favor green backgrounds.  
 
 Cardano - White, for the Chinese rice farmers to whome Charles Hoskinson shills Cardano
 
 Solana - Brown, for Anal OS, Solanus, etc.
 
-Cosmos - Any star pattern, optoinally specific star patterns or images could represent specific zones, ala Penumbra.  A star pattern should not be so regular it resmebles polakdots.
+Cosmos - Any star pattern really, but specific distinctive star patterns or stellar images should represent specific zones, ala Penumbra.  A star pattern should not be so regular it resmebles polakdots.  Images make sense because IBC being just a bridge makes trust hard.
 
 ### Centralized ala exchange run
 
