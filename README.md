@@ -28,7 +28,7 @@ Cosmos - Any star pattern really, but specific distinctive star patterns or stel
 
 Filecoin - ???
 
-TRON - Mustard, for Ethereum plus braging
+TRON - Mustard, for Ethereum plus bragging
 
 Litecoin - ???
 
