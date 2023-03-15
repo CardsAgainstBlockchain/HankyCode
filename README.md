@@ -8,7 +8,7 @@ All hanky colors should be best approximations, as not everyone can find all col
 
 Bitcoin - Orange, for the usual bitcoin logo color.
 
-Ethereum - Yellow, in honor of the Etehreum yellow papper
+Ethereum - Yellow, in honor of the Ethereum yellow papper
 
 Dogecoin - Doge-like tan colors, for Doge of course. 
 
