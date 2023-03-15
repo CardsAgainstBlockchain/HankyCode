@@ -1,2 +1,27 @@
-# HankyCode
-The Blockchain Hanky Code
+# The Blockchain Hanky Code
+
+In principle, a hanky worn on the right means buying, while a worn on the hanky left means selling.  In practice, either sides represents an interest, and thus maybe a swinger.
+
+
+Bitcoin - ??? Orange ???
+
+Ethereum - Yellow, in honor of the Etehreum yellow papper
+
+USDT - Ideally US Dollargreen, meaning hex code #6B8068, or RGB values 107, 128, 104, or 32% red, 38% green, and 31% blue. 
+
+USDC - Clown-ish colored light green.  Or should this be another stable coin?
+
+Dogecoin - Doge-like tan colors, for Doge of course. 
+
+ZCash - Black, for the dark net.
+
+Red - Mina.  It's founder Izaak Meckler is knowledgable and supportive of communism.  Also zk roll ups make sense for a communist economy too.
+
+Polkadot - Ideally pink polkadots on a white hanky.  Another polkadot pattern should represent specific parachain projects.  Polakdot piovacy coins should favor black backgrounds.  Polkadot stable coins should favor green backgrounds.
+
+Cardano - White, for the Chinese rice farmers to whome Charles Hoskinson shills Cardano
+
+Solana - Fleshy pink color, for Anal OS, Solanus, etc.
+
+Cosmos - Any star pattern, optoinally specific star patterns or images could represent specific zones, ala Penumbra.  A star pattern should not be so regular it resmebles polakdots.
+
