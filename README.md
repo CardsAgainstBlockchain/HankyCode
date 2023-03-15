@@ -1,6 +1,6 @@
 # The Blockchain Hanky Code
 
-In principle, a hanky worn on the right means buying, while a worn on the hanky left means selling.  In practice, either sides represents an interest, and thus maybe a swinger.
+In principle, a hanky worn on left means selling, while a worn on the right means buying.  In practice, either sides represents an interest, and thus maybe a swinger.
 
 
 Bitcoin - ??? Orange ???
@@ -9,7 +9,11 @@ Ethereum - Yellow, in honor of the Etehreum yellow papper
 
 USDT - Ideally US Dollargreen, meaning hex code #6B8068, or RGB values 107, 128, 104, or 32% red, 38% green, and 31% blue. 
 
-USDC - Clown-ish colored light green.  Or should this be another stable coin?
+USDC - ???
+
+??? - Clown-ish colored light green. 
+
+??? - Lime Green, for a real lemon of a stable coin.
 
 Dogecoin - Doge-like tan colors, for Doge of course. 
 
@@ -21,7 +25,9 @@ Polkadot - Ideally pink polkadots on a white hanky.  Another polkadot pattern sh
 
 Cardano - White, for the Chinese rice farmers to whome Charles Hoskinson shills Cardano
 
-Solana - Fleshy pink color, for Anal OS, Solanus, etc.
+Solana - Brown, for Anal OS, Solanus, etc.
 
 Cosmos - Any star pattern, optoinally specific star patterns or images could represent specific zones, ala Penumbra.  A star pattern should not be so regular it resmebles polakdots.
+
+Drugs - Ziploc bag, left buying, right selling ([cite](https://user.xmission.com/~trevin/hanky.html)).
 
