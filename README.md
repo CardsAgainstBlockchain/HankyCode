@@ -1,10 +1,10 @@
 # The Blockchain Hanky Code
 
+<img align="right" src="https://github.com/CardsAgainstBlockchain/HankyCode/raw/main/hankies.jpg" alt="Rewrite it in Rust" width="300" />
+
 In principle, a hanky worn on left means selling, while a worn on the right means buying.  In practice, either sides represents an interest, and thus maybe a swinger.
 
 All hanky colors should be best approximations, as not everyone can find all colors, even if ebay or aliexpress likely do carry them all in bulk.  We do not have hanky codes for national currencies, as these should be implied by the country in which you're standing or where you live. 
-
-<img align="right" src="https://github.com/CardsAgainstBlockchain/HankyCode/raw/main/hankies.jpg" alt="Rewrite it in Rust" width="300" />
 
 ### Suposidly decentralized
 
